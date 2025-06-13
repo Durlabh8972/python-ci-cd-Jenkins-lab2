@@ -13,7 +13,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/your-username/python-ci-cd-lab.git'
+                    url: 'https://github.com/Durlabh8972/python-ci-cd-Jenkins-lab2'
             }
         }
 

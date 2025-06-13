@@ -30,6 +30,7 @@ bash
 Copy
 Edit
 https://github.com/Durlabh8972/python-ci-cd-Jenkins-lab2.git
+
 📋 Jenkins Pipeline Stages
 Checkout: Clones the GitHub repository.
 
